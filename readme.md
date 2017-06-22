@@ -11,7 +11,6 @@ Crystal - "Fast as C, Slick as Ruby"
 
 ## Resources
 - [Documentation](https://crystal-lang.org/docs)
-- [eBook](http://www.crystalforrubyists.com/index.html)
 - [Introduction](https://blog.codeship.com/an-introduction-to-crystal-fast-as-c-slick-as-ruby)
 - [Comparison of code example with Ruby](http://www.virtuouscode.com/2015/08/20/hello-crystal/)
 - [Ruby Rogues Podcast episode](https://devchat.tv/ruby-rogues/248-rr-the-crystal-programming-language-with-erik-michaels-ober)
